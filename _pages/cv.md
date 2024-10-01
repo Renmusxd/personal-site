@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Boston University, 2025 (expected)
+* B.S. in Physics and Computer Science, Cornell University 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* PhD Program (Laumann Group), Boston University Boston, MA  August 2019 – Present
+  * Research includes Highly Frustrated Magnets, Randomized Measurement Protocols, Gauge Theories on a Lattice
+  * Used Quantum Annealer to study quantum dimer models and compare to custom Quantum Monte Carlo implementation.
+* Google LLC, Mountain View, CA August 2017 – August 2019
+  * Employed as Software Engineer in the Search Quality Department developing Machine Learning models for NLP.
+  * Work included large-scale data analysis and writing high performance code for serving queries.
+* Laboratory for Elementary Particle Physics (Rubin Group), Cornell University, Ithaca, NY  December 2013 - May 2017
+  * Developed Python and Fortran libraries to simulate and analyze electron cloud dynamics for Cornell’s particle accelerator. 
+  * Operated accelerator and logged data for related experiments.
+* UCSF Laboratory Internship (Blackburn Group), San Francisco, CA April 2011 - 2013
+  * Data analysis genetic data for research on telomere regenerative processes and correlating health and lifespan in yeast.  
+  * Programmed a robotic DNA sequencer for telomere analysis for a prospective study on patient health for a large HMO.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages 
+  * Proficient in Rust (5yrs), Python (17yrs), C++ (10yrs), Java (10yrs)
+  * Familiar with: Julia, Fortran, Haskell, OCaml, Kotlin, Matlab, Swift 
+* GPU Programming
+  * WGPU and CUDA
+  * Monte carlo sampling
+* Machine Learning
+  * Naural Language Processing (More RNNs than LLMs)
+  * Unsupervised learning
+* Large projects
+  * Quantum Monte Carlo SSE library for small-field qubit models.
+  * Wrote a custom compiler for an object oriented language from scratch
+  * Designed a quantum circuit simulation library in Rust
 
 Publications
 ======
