@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a condensed matter theorist working on strongly correlated materials and random unitary circuits.
+I am a condensed matter theorist working on strongly correlated materials and random unitary circuits, with a focus on emergent statistical models and understanding physics through the lense of computation.
 
 
 Random Number-Conserving Unitary Circuits
@@ -33,3 +33,13 @@ The *All-Pairs* Protocol for Shadow Tomography
 [See Paper](publication/2024-8-7-shadows)
 
 ![image](images/shadows.png)
+
+Random measurement protocols have proven themselves to be useful tools for nascent quantum hardware.
+These protocols can efficiently benchmark new platforms, allowing, for example, designers to demonstrate that the hardware is behaving as expected and is ready to perform computation.
+*Classical Shadows* are a new family of such protocols which have an additional benefit: they data they gather can be used to answer questions about the hardware we don't yet know to ask.
+In other words the data is, in some sense, basis agnostic: "Measure first, ask questions later".
+
+These protocols are surprisingly efficient: Using the *local* protocol, with only a handful of measurements we can start to reconstruct expectation values for any low-weight observables.
+We extend these protocols to systems with conservation laws, such as quantum simulation platforms of ultracold atoms, and design reconstruction algorithms which are exponentially more efficient than was possible with previous studies.
+
+
