@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "sumner.jpg"
   name             : "Sumner Hearth"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Condensed matter theorist"
   location         : "Boston, MA"
   employer         : "Boston University"
-  uri              : "wxplusb.com"
+  uri              : "www.wxplusb.com"
   email            : "sumnerh@bu.edu" 
 
   # Academic websites
