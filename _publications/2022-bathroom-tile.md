@@ -12,4 +12,8 @@ citation: 'Sumner N. Hearth, Siddhardh C. Morampudi, and Chris R. Laumann
 <i>Phys. Rev. B 105, 195101</i>'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We determine the zero and finite temperature phase diagram of the fully frustrated quantum Ising model on the bathroom tile (4-8) lattice. The phase diagram exhibits a wealth of 2+1d physics, including  1. classical Coulomb dimer liquids of both square and triangular lattice types; 2. quantum order-by-disorder induced phases breaking $$\mathbb{Z}_4$$, $$\mathbb{Z}_6$$, and $$\mathbb{Z}_8$$ symmetries; 3. finite temperature Kosterlitz-Thouless (KT) phases floating over the $$\mathbb{Z}_6$$ and $$\mathbb{Z}_8$$ orders; 
+and, 4. staircases of (in)-commensurate symmetry breaking phases at intermediate coupling.
+We establish this elaborate phase diagram using a combination of dimer model mapping, perturbation theory, Landau analysis and Stochastic Series Expansion Quantum Monte Carlo (QMC-SSE). 
+Our results provide a baseline for studying frustrated magnetism with D-Wave architecture annealers, where the 4-8 lattice can be embedded naturally without 'cloning', reducing the number of competing energy scales.
+Simulations with the D-Wave 2000Q demonstrate qualitative agreement with the high temperature portion of the phase diagram, but are unable to access the low temperature phases.

@@ -2,12 +2,12 @@
 title: "Efficient Local Classical Shadow Tomography with Number Conservation"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-8-7-shadows.md
+permalink: /publication/2024-8-7-shadows
 excerpt: 'We propose and analyze a new local shadow protocol adapted to number-conserving systems.'
 date: 2023-8-7
 venue: 'PRL'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.060802'
+paperurl: 'https://doi.org/10.1103/PhysRevLett.133.060802'
 citation: 'Sumner N. Hearth, Michael O. Flynn, Anushya Chandran, and Chris R. Laumann <i>Phys. Rev. Lett. 133, 060802</i>'
 ---
 

@@ -27,7 +27,7 @@ author:
   bio              : "Condensed matter theorist"
   location         : "Boston, MA"
   employer         : "Boston University"
-  uri              : "www.wxplusb.com"
+  uri              : #
   email            : "sumnerh@bu.edu" 
 
   # Academic websites
