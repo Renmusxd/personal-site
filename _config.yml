@@ -21,13 +21,13 @@ repository               : "renmusxd/renmusxd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sumner.jpg"
   name             : "Sumner Hearth"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "Condensed matter theorist"
   location         : "Boston, MA"
   employer         : "Boston University"
-  uri              : # URL
+  uri              : "wxplusb.com"
   email            : "sumnerh@bu.edu" 
 
   # Academic websites
