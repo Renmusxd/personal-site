@@ -1,0 +1,3 @@
+[submodule "old-blog"]
+	path = old-blog
+	url = git@github.com:Renmusxd/old-blog.git
