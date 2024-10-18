@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a condensed matter theorist working on strongly correlated materials and random unitary circuits, with a focus on emergent statistical models and understanding physics through the lense of computation.
+I am a condensed matter theorist working on strongly correlated materials and random unitary circuits, with a focus on emergent statistical models and understanding physics through the lens of computation.
 
 
 Random Number-Conserving Unitary Circuits
